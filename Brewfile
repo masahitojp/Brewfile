@@ -5,6 +5,7 @@
 tap caskroom/cask
 install brew-cask
 cask install google-chrome
+cask install iterm2
 
 ## caskroom/versions
 tap caskroom/versions

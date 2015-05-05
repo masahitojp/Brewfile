@@ -45,6 +45,7 @@ install libffi
 install libpng
 install libtiff
 install libtool
+install nodebrew
 install pango
 install pcre
 install pixman

@@ -9,6 +9,7 @@ cask google-chrome
 cask intellij-idea
 cask iterm2
 cask java
+cask virtualbox
 cask xquartz
 
 ## caskroom/versions
@@ -55,12 +56,16 @@ brew libtiff
 brew libtool
 brew mackup
 brew nodebrew
+brew openssl
 brew pango
 brew pcre
 brew pixman
 brew pkg-config
+brew python
+brew readline
 brew sbt
 brew scala
+brew sqlite
 brew the_silver_searcher
 brew xz
 brew zeromq
